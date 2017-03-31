@@ -11,4 +11,4 @@ The files in the repo are as follows:
 
 - 'trivia solution.txt': Contains the solution for all the questions.
 
-- 'video link.txt': A link to the video showing the presentation of the board itself.
+- 'video link.txt': A link to the video showing the presentation of the game itself, taken on the day of presentation.
